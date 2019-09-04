@@ -1,0 +1,12 @@
+---
+title: "UnderstandingConceptsLab1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Git is just the code that facilitates version control. Github uses git in order to extend the functions of it, allowing peer collaboration among other features. 
+2. Both can be used without each other, but only using git means that the version control is locked to one machine, and collaboration is not possible unless you swap machines. Only using github means that downloading changes to the program or uploading multiple files is a tedious, time consuming process. If you only want to upload a finished version of code for other's use, just using github would be fine, and if you only want a place to log changes on a personal project.
+3. A repository is the file structure that has all the files in a project. It is created by the command git init. 
