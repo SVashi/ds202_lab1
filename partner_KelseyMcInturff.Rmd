@@ -1,0 +1,9 @@
+---
+title: "partner_KelseyMcInturff"
+output: html_document
+---
+
+  +Kelsey McInturff, username: kmcintur
+  +In Shivam's most recent commit, he changed a file called CodingExercisesLab1.R. The commit ID is c86077398b94bb27f74fc4818196f6ba59368410
+  +I did not have any errors knitting the owner's file
+  +I encountered a difficulty when I tried to commit a file without a message after. I couldn't figure out how to exit the prompt to enter a message. I would recommend always putting -m after a commit.
