@@ -1,0 +1,13 @@
+---
+title: "partner_ChristianSimmons"
+output: html_document
+---
+
+  + Christian Simmons, username: crsim
+  
+  + In Shivam's most recent commit, he merged the master branch. The commit ID is 6b38bbec7acf4e6449f35b681915294e15b60d5a
+  
+  + I did not have any errors knitting the owner's file
+  
+  + Having a cheat sheet is very underrated. I understand a lot of people want to learn this and memorize it but there are plenty of cheat sheets I like to have handy, example: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+  
